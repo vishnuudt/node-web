@@ -1,0 +1,26 @@
+{
+  "name": "nodeweb",
+  "version": "1.0.0",
+  "description": "semantic web with node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/vishnuudt/node-web.git"
+  },
+  "keywords": [
+    "node",
+    "rdf"
+  ],
+  "author": "vishnu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vishnuudt/node-web/issues"
+  },
+  "homepage": "https://github.com/vishnuudt/node-web#readme",
+  "dependencies": {
+    "rdfstore": "^0.9.17"
+  }
+}
